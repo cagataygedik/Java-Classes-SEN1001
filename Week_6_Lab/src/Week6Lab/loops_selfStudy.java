@@ -3,6 +3,7 @@ package Week6Lab;
 import java.util.Scanner;
 
 public class loops_selfStudy {
+	//a
 
 	public static void main(String[] args) {
 		
@@ -19,7 +20,7 @@ public class loops_selfStudy {
 		//System.out.println("6 ^ 7 = " + result);
 		
 		Scanner input = new Scanner(System.in);
-		System.out.println("Give me the base: ");
+		System.out.println("Give me the base:");
 		int base = input.nextInt();
 		
 		System.out.println("Give me the power: ");
