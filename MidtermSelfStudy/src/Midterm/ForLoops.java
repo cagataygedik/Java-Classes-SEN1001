@@ -17,6 +17,18 @@ public class ForLoops {
 			}
 			System.out.println();
 		}
+		
+		   int total = 0;
+	       int count = 0;
+	       
+	       while(count < 4) {
+	           total += count;
+	           
+	       }
+	       System.out.println(total);
+	       
+	       
+	       
 
 	}
 
